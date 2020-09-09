@@ -1,2 +1,3 @@
 # ide kerulnek a nevek
-+ Zsigmond Viktor Árpád
+Papp Ádám
+Zsigmond Viktor Árpád
